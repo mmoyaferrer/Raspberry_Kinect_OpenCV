@@ -6,6 +6,11 @@ In order to execute the app, you have to run “pizarra_kinect.py”. So as to d
 
 Link to YouTube video is: https://www.youtube.com/watch?v=2rtEHTXd1CM
 
+# Authors
+
+Manuel Moya Ferrer
+Alejandro Castilla Quesada
+
 # License 
 
 This work is licensed under the Creative Commons
